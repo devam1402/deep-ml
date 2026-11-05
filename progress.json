@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-11-05T09:18:57.977Z",
+  "items": {
+    "math:172": {
+      "kind": "math",
+      "id": "172",
+      "title": "The GPU Memory Hierarchy and the Decode Latency Floor",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/172",
+      "path": "math/0172-the-gpu-memory-hierarchy-and-the-decode-latency-floor",
+      "first_solved_at": "2026-11-05T09:18:52.802Z",
+      "last_pushed_at": "2026-11-05T09:18:52.802Z"
+    }
+  }
+}
